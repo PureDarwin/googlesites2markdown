@@ -2,7 +2,7 @@
 
 Move Google Sites HTML to GitHub Wiki Markdown.
 
-This tool was written in order to transfer content from https://sites.google.com/a/puredarwin.org/puredarwin/ to https://github.com/PureDarwin/PureDarwin/wiki
+This tool was written in order to transfer content from https://sites.google.com/a/puredarwin.org/puredarwin/ to https://github.com/PureDarwin/PureDarwin/wiki.
 
 Unfortunately the [google-sites-liberation tool](https://code.google.com/p/google-sites-liberation/) seems broken (cannot log into Google Apps domains anymore) so that using https://github.com/foursquare/sites-to-markdown was not an option.
 
