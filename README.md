@@ -1,4 +1,4 @@
-# googlesites2github
+# googlesites2markdown
 
 Move Google Sites HTML to GitHub Wiki Markdown.
 
